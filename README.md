@@ -6,8 +6,8 @@ Program ini adalah program yang dapat menyelesaikan sebuah word search puzzle de
 Java telah terinstall
 
 ## Cara menjalankan
-ketik 
-java -classpath (lokasi clone repository) bin.driver
-  
+1. ketik java -classpath (lokasi clone repository) bin.driver
+atau
+2. Jalankan dengan tombol run pada VsCode
 ## Pembuat
 Aji Andhika Falah   13520012
