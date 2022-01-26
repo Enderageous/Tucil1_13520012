@@ -1,1 +1,13 @@
-# TuCil-Stratim-13520012
+# Tucil1_13520012
+## Deskripsi Program
+Program ini adalah program yang dapat menyelesaikan sebuah word search puzzle dengan input file dan output yang menunjukkan letak kata yang dicari.
+
+## Requirement
+Java telah terinstall
+
+## Cara menjalankan
+ketik 
+java -classpath <lokasi clone repository> bin.driver
+  
+## Pembuat
+Aji Andhika Falah   13520012
