@@ -7,7 +7,7 @@ Java telah terinstall
 
 ## Cara menjalankan
 ketik 
-java -classpath <lokasi clone repository> bin.driver
+java -classpath (lokasi clone repository) bin.driver
   
 ## Pembuat
 Aji Andhika Falah   13520012
